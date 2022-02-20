@@ -8,6 +8,6 @@ describe('sum function', () => {
     //test('',()=>{})
     it('should return the correct sum of 2 numbers', () => {
         const result = sum(1, 2)
-        expect(result).toBe(4)
+        expect(result).toBe(3)
     })
 })
